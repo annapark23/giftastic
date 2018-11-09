@@ -1,32 +1,11 @@
 
+.gif-btn{
+    border-radius: 8px;
+    margin: 5px 5px;
+    margin-bottom: 20px;
+}
 
-/* header{
+h1{
     text-align: center;
-    padding: 30px;
-    width: 100%;
-    height: 100px;
-    background-color:pink;
-    font-family: 'Concert One', 'cursive';
-
+    padding: 20px;
 }
-
-#button-appears-here{
-    margin: 20px;
-    padding: 10px;
-}
-
-
-
-#container{
-    background-color: lightgray;
-    margin: 20px;
-    padding: 10px 10px;
-}
-
-#find-gif{
-    margin-top: 10px;
-    padding-top: 5px;
-}
-
-
- */
